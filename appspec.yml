@@ -6,4 +6,4 @@ files:
 hooks:
   BeforeInstall:
     - location: \before-install.bat
-      timeout: 900
+      timeout: 1900
